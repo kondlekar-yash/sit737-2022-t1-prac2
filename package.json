@@ -1,0 +1,12 @@
+{
+    "name": "web-server",
+    "version": "0.1.0",
+    "description": "Web server for prac 2",
+    "dependencies": {
+        "body-parser": "*",
+        "express": "*",
+        "log": "^1.4.0"
+    },
+    "author": "Yash",
+    "license": "MIT"
+}
